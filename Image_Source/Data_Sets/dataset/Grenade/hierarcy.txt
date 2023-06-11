@@ -1,0 +1,1 @@
+tegs = {'metal':True,'wood':False, 'organic_procent':20,'warning':True, 'circle_procent':20, "warning_lvl":70, 'similar_objects':[None]}
